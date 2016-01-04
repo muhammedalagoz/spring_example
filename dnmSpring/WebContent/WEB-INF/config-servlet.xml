@@ -23,7 +23,7 @@
        	http://www.springframework.org/schema/mvc
 		http://www.springframework.org/schema/mvc/spring-mvc.xsd"
 	default-autowire="byName">
-	<context:component-scan base-package="com.all.packages" />
+	<context:component-scan base-package="com.istatistik" />
 		
 		<bean id="viewResolver"
     		class="org.springframework.web.servlet.view.InternalResourceViewResolver" >

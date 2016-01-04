@@ -1,4 +1,4 @@
-package com.all.packages;
+package com.istatistik;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
